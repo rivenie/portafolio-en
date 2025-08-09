@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6, p {
   justify-content: center;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-column-gap: 2rem;
-  grid-row-gap: 2rem;
+  grid-row-gap: 2rem;  
 }
 .main .proyectos .contenedor-proyectos .proyecto {
   margin: auto;
